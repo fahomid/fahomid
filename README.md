@@ -6,9 +6,7 @@
 
 Building reliable backend systems, real-time applications, developer tools, and privacy-first products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fahomid.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.fahomid.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fahomid-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fahomid)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Fahomid-29B2FE?style=for-the-badge\&logo=freelancer\&logoColor=white)](https://www.freelancer.com/u/Fahomid)
+[Portfolio](https://www.fahomid.com) · [LinkedIn](https://www.linkedin.com/in/fahomid) · [Freelancer](https://www.freelancer.com/u/Fahomid)
 
 </div>
 
