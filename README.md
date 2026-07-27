@@ -16,7 +16,7 @@ Building reliable backend systems, real-time applications, developer tools, and 
 
 I am a backend and full-stack software engineer with over a decade of experience building production web, mobile, and SaaS products.
 
-From 2014 to January 2026, I worked independently with international clients and delivered more than 100 projects. Clients often came to me with a rough idea, an unfinished product, or a technical problem that first needed to be understood. I turned those requirements into working systems and handled the process from planning and architecture through development, deployment, and long-term support.
+From 2014 to September 2025, I worked independently with international clients and delivered more than 100 projects. Clients often came to me with a rough idea, an unfinished product, or a technical problem that first needed to be understood. I turned those requirements into working systems and handled the process from planning and architecture through development, deployment, and long-term support.
 
 Freelancing rarely meant solving the same problem twice. I regularly moved between unfamiliar codebases, technologies, business requirements, and production environments. That experience taught me how to learn quickly, debug carefully, make practical decisions, and take responsibility for the final result.
 
